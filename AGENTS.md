@@ -5,7 +5,7 @@ This repository is a structural template. When asked to use it, reproduce its fo
 ## Copy procedure
 1. Obtain the target repository path from the task.
 2. Read `README.md` before copying.
-3. Use the **Current skeleton structure** section as the default source of truth.
+3. Use the **Current template structure** section as the default source of truth.
 4. Use the **Recommended structure** when the task explicitly requests the full or recommended layout, or to suggest additional folders to create.
 5. Create the selected directory structure in the target repository, preserving directory names and nesting.
 

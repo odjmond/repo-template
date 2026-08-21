@@ -1,10 +1,10 @@
-# Repository Skeleton
+# Repository Template
 
 This repository is a lightweight starting point for new repositories. It serves as a template for standard repo structure. Copy it to establish a familiar layout then keep only the directories your project actually needs. It separates deployable applications, reusable code, infrastructure, documentation, project planning, and cross-project tests without imposing a language or build tool.
 
-The folders in this repository, together with `README.md` and `AGENTS.md`, form the template. When creating a new repository, copy `README.md` and `AGENTS.md` as empty files. Do not copy their contents from this skeleton.
+The folders in this repository, together with `README.md` and `AGENTS.md`, form the template. When creating a new repository, copy `README.md` and `AGENTS.md` as empty files. Do not copy their contents from this template.
 
-## Current skeleton structure
+## Current template structure
 
 The following is the structure currently included in this repository (excluding Git metadata):
 
